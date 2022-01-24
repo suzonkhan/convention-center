@@ -93,6 +93,11 @@ section.page-block {
     background-color: #fff;
 }
 
+.facility-box i {
+    /*font-size: 44px;*/
+    color: #aba9a9;
+}
+
 .main-footer {
 
 }
