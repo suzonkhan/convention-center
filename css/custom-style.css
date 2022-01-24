@@ -94,8 +94,12 @@ section.page-block {
 }
 
 .facility-box i {
-    /*font-size: 44px;*/
     color: #aba9a9;
+}
+
+#accordionFlushExample.accordion .accordion-item {
+    border: 1px solid #c0bfbf;
+    margin-bottom: 20px;
 }
 
 .main-footer {
