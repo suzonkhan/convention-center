@@ -102,6 +102,19 @@ section.page-block {
     margin-bottom: 20px;
 }
 
-.main-footer {
+@media screen and (max-width: 600px) {
+    .navbar-brand {
+        max-width: calc(100% - 100px);
+        word-break: break-word;
+        white-space: break-spaces;
+    }
 
+    .carousel-caption h2 {
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .main-footer {
+        text-align: center;
+    }
 }
